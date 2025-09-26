@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+pillow
+torch
+torchvision
+RPi.GPIO
+RPLCD
+smbus
