@@ -147,13 +147,6 @@ The system uses YOLOv8's pre-trained COCO dataset classes including:
 
 This project is part of academic research at Urmia University. All rights reserved.
 
-## 🙏 Acknowledgments
-
-- **Urmia University** - Computer Engineering Department
-- **Thesis Supervisor** - [Supervisor Name]
-- **Ultralytics Team** - For YOLOv8 framework
-- **OpenCV Community** - For computer vision tools
-
 ---
 
 **Note**: This project was developed as part of a Bachelor of Science thesis project in Electrical-Computer Engineering department of Urmia University, focusing on real-time object detection systems with practical hardware implementation for robotic applications.
