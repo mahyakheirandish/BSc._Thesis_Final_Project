@@ -1,12 +1,13 @@
 # Robotic Object Detection System - BSc. Thesis Final Project
 
+<div align="center"> 
+    <img src="demo.gif" alt="project_demo_gif_video" />
+</div>
 
 <div align="center"> 
     <img src="tools.jpg" alt="project_tools" />
 </div>
 
-[Project Demo Video](./demo.mp4)
-*Click the image above to watch the full project demonstration*
 
 **Author:** Mahya Kheirandish  
 **Institution:** Urmia University  
@@ -18,7 +19,9 @@
 This project implements a real-time object detection and segmentation system using YOLOv8 (You Only Look Once version 8) with dual platform support - desktop application with PyQt5 GUI and Raspberry Pi implementation with LCD display support.
 
 ### 📄 Thesis Documentation
-- **Full project report Document**: [Link to thesis PDF file]
+- **Full project report Document**: [Link to thesis PDF file](Final_Thesis_Project_Report(ENGLISH).pdf)
+
+[Project Demo Video](./demo.mp4)
 
 ### Key Features
 
@@ -153,5 +156,5 @@ This project is part of academic research at Urmia University. All rights reserv
 
 ---
 
-**Note**: This project was developed as part of a Bachelor of Science thesis in Electrical-Computer Engineering department of Urmia University, focusing on real-time object detection systems with practical hardware implementation.
+**Note**: This project was developed as part of a Bachelor of Science thesis project in Electrical-Computer Engineering department of Urmia University, focusing on real-time object detection systems with practical hardware implementation for robotic applications.
 
